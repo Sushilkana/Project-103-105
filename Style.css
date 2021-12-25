@@ -29,7 +29,7 @@ body{
 #div_2{
     border:5px red solid;
     float:right;
-    height:415px;
+    height:400px;
     width:710px;
     margin-right:10px;
 }
@@ -59,4 +59,6 @@ body{
     margin-top:30%;
     text-align: center;
     padding:3px;
+    background-color:rgba(0, 255, 255, 0.527);
 }
+
